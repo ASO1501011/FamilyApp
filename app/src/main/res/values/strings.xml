@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FamilyApp</string>
+    <string name="button_roulette_label">歩く距離を決める</string>
+    <string name="button_start_walk_label">歩き始める</string>
+    <string name="title_activity_roulette">RouletteActivity</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="back">戻る</string>
+    <string name="button_start">歩き始める</string>
+    <string name="button_stop">歩き終わった</string>
+    <string name="mail_to">1501011@st.asojuku.ac.jp</string>
+</resources>
